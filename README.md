@@ -1,5 +1,6 @@
 # ReBless_AssetDownloader
-用於下載所有ReBless Zwei的資源文件，而不用實際去玩 (Nutaku版)
+用於下載所有ReBless Zwei的資源文件，而不用實際去玩 (Nutaku版)<br>
+***This program will only download hotfix file, not include files in apk.**
 
 由於資源是動態下載的，意思是如果要正常取得所有的話，必須要遊戲畢業才行
 
